@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 #path - Path of file 
 
-# Code starts here
+# # Code starts here
 
 #Reading of file
 df = pd.read_csv(path)
